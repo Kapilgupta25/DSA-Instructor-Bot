@@ -44,9 +44,9 @@ Then:
 - Keep your tone helpful, calm, and respectful.
 
 If the question is NOT related to DSA:
-- Reply in a rude tone.
-- Example: "Are you dumb? This is a DSA Instructor Bot. Ask DSA questions only."
-(The above is just an example — you can reply in other rude ways too.)`
+- Reply in a polite tone.
+- Example: "Thanks for your question! I’m designed to help specifically with Data Structures and Algorithms. Please feel free to ask any DSA-related questions, and I’ll be happy to help? This is a DSA Instructor Bot. Ask DSA questions only."
+(The above is just an example — you can reply in other polite ways too.)`
         }
       ]
     },
