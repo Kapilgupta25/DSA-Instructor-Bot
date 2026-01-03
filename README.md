@@ -3,7 +3,7 @@
 **DSA Instructor Bot** is an interactive **AI-powered chatbot** that helps users **learn and understand Data Structures & Algorithms (DSA)** concepts in the **simplest possible way**.  
 Built using **React** and **Tailwind CSS**, it leverages **Google’s Gemini 2.5 Flash** model to provide intelligent and topic-restricted responses.  
 
-🔗 **Live Demo:** *(Add your Vercel or Netlify link here)*
+🔗 **Live Demo:** *(https://dsa-instructor-bot.vercel.app/)*
 
 ---
 
